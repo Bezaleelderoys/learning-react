@@ -11,3 +11,4 @@ Topics learned
 - Components and Props
 - Atomic Design
 - Router
+- Conditional Rendering
