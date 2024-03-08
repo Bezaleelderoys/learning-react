@@ -8,7 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Topics learned
+
 - Components and Props
 - Atomic Design
 - Router
-- Conditional Rendering
+- Nested Components
+- Rendering List
