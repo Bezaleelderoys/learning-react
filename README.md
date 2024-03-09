@@ -12,5 +12,8 @@ Topics learned
 - Components and Props
 - Atomic Design
 - Router
-- Nested Components
-- Rendering List
+- Nested Components 3/8/2024
+- Rendering List 3/8/2024
+- Event Handler 3/8/2024
+- State 3/8/2024
+- useState 3/9/2024
